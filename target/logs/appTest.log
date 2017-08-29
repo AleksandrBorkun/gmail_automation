@@ -1,0 +1,144 @@
+2017-08-29 22:58:27,176 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 22:58:39,234 INFO listener.CustomListener [main] Teststarted running:test1 at:1504036719234
+2017-08-29 22:58:41,783 INFO report.Reporter [main] Clean Test Data
+2017-08-29 22:58:45,607 INFO listener.CustomListener [main] Passeds: [ResultMap map={}]
+2017-08-29 22:58:45,610 INFO listener.CustomListener [main] Faileds:[ResultMap map={[TestResult name=test1 status=FAILURE method=LoginPageTest.test1()[pri:0, instance:com.epam.gmail.tests.LoginPageTest@77cd7a0] output={null}]=LoginPageTest.test1()[pri:0, instance:com.epam.gmail.tests.LoginPageTest@77cd7a0]}]
+2017-08-29 22:58:45,611 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T22-58-39.292.html
+2017-08-29 23:01:56,532 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:02:07,080 INFO listener.CustomListener [main] Teststarted running:test1 at:1504036927080
+2017-08-29 23:02:09,801 INFO report.Reporter [main] Clean Test Data
+2017-08-29 23:02:14,218 INFO listener.CustomListener [main] Passeds: 0
+2017-08-29 23:02:14,219 INFO listener.CustomListener [main] Faileds:1
+2017-08-29 23:02:14,219 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-02-07.116.html
+2017-08-29 23:37:54,417 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:38:05,024 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504039085024
+2017-08-29 23:38:05,519 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-29 23:38:33,753 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-29 23:38:46,943 INFO report.Reporter [main] Main Page View
+2017-08-29 23:38:48,559 INFO report.Reporter [main] Message Window View
+2017-08-29 23:38:54,507 INFO report.Reporter [main] Sent Msg View
+2017-08-29 23:38:55,926 INFO report.Reporter [main] Step 3 : LogOut
+2017-08-29 23:38:56,216 INFO report.Reporter [main] User Icon View
+2017-08-29 23:39:01,719 INFO report.Reporter [main] Step 4 : Swith Account
+2017-08-29 23:39:01,719 INFO report.Reporter [main] Login Page View
+2017-08-29 23:39:31,542 INFO report.Reporter [main] Step 5 : Verify That The Msg is present
+2017-08-29 23:39:41,597 INFO report.Reporter [main] Incomming MSG View
+2017-08-29 23:39:42,427 INFO listener.CustomListener [main] sendMessageAndCheckedInBoxTestSuccess
+2017-08-29 23:39:46,752 INFO report.Reporter [main] Clean Test Data
+2017-08-29 23:39:51,745 INFO listener.CustomListener [main] Passeds: 1
+2017-08-29 23:39:51,746 INFO listener.CustomListener [main] Faileds:0
+2017-08-29 23:39:51,746 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-38-05.071.html
+2017-08-29 23:45:08,110 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:45:08,157 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504039508155
+2017-08-29 23:45:09,154 INFO listener.CustomListener [main] Passeds: 0
+2017-08-29 23:45:09,154 INFO listener.CustomListener [main] Faileds:0
+2017-08-29 23:45:09,154 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-45-08.355.html
+2017-08-29 23:45:36,293 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:45:50,066 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504039550066
+2017-08-29 23:45:51,089 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-29 23:46:19,871 INFO report.Reporter [main] Clean Test Data
+2017-08-29 23:46:23,265 INFO listener.CustomListener [main] Passeds: 0
+2017-08-29 23:46:23,265 INFO listener.CustomListener [main] Faileds:1
+2017-08-29 23:46:23,265 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-45-50.455.html
+2017-08-29 23:53:22,267 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:53:30,201 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-29 23:53:34,841 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504040014841
+2017-08-29 23:53:35,237 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-29 23:54:03,350 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-29 23:54:16,600 INFO report.Reporter [main] Main Page View
+2017-08-29 23:54:17,932 INFO report.Reporter [main] Message Window View
+2017-08-29 23:54:24,557 INFO report.Reporter [main] Sent Msg View
+2017-08-29 23:54:26,064 INFO report.Reporter [main] Step 3 : LogOut
+2017-08-29 23:54:26,406 INFO report.Reporter [main] User Icon View
+2017-08-29 23:54:31,465 INFO report.Reporter [main] Step 4 : Swith Account
+2017-08-29 23:54:31,465 INFO report.Reporter [main] Login Page View
+2017-08-29 23:55:27,442 INFO report.Reporter [main] Step 5 : Verify That The Msg is present
+2017-08-29 23:55:39,118 INFO report.Reporter [main] Incomming MSG View
+2017-08-29 23:55:39,971 INFO listener.CustomListener [main] sendMessageAndCheckedInBoxTestSuccess
+2017-08-29 23:55:42,698 INFO report.Reporter [main] Clean Test Data
+2017-08-29 23:55:47,044 INFO listener.CustomListener [main] Passeds: 1
+2017-08-29 23:55:47,044 INFO listener.CustomListener [main] Faileds:0
+2017-08-29 23:55:47,045 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-53-34.923.html
+2017-08-29 23:58:11,941 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-29 23:58:18,814 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-29 23:58:25,011 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504040305011
+2017-08-29 23:58:25,582 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:00:08,814 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:00:13,038 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:00:13,039 INFO listener.CustomListener [main] Faileds:1
+2017-08-30 00:00:13,039 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-29T23-58-25.082.html
+2017-08-30 00:00:28,742 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:00:35,974 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-30 00:00:39,871 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504040439871
+2017-08-30 00:00:40,593 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:02:05,883 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-30 00:02:09,326 INFO report.Reporter [main] Main Page View
+2017-08-30 00:02:10,219 INFO report.Reporter [main] Message Window View
+2017-08-30 00:02:16,432 INFO report.Reporter [main] Sent Msg View
+2017-08-30 00:02:24,018 INFO report.Reporter [main] Step 3 : LogOut
+2017-08-30 00:02:24,428 INFO report.Reporter [main] User Icon View
+2017-08-30 00:02:29,210 INFO report.Reporter [main] Step 4 : Swith Account
+2017-08-30 00:02:29,211 INFO report.Reporter [main] Login Page View
+2017-08-30 00:03:47,268 INFO report.Reporter [main] Step 5 : Verify That The Msg is present
+2017-08-30 00:04:16,964 INFO report.Reporter [main] Incomming MSG View
+2017-08-30 00:04:17,634 INFO listener.CustomListener [main] sendMessageAndCheckedInBoxTestSuccess
+2017-08-30 00:04:25,221 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:04:30,181 INFO listener.CustomListener [main] Passeds: 1
+2017-08-30 00:04:30,181 INFO listener.CustomListener [main] Faileds:0
+2017-08-30 00:04:30,182 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-00-39.911.html
+2017-08-30 00:16:23,689 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:16:31,939 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-30 00:16:37,105 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504041397105
+2017-08-30 00:16:37,451 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:17:45,878 INFO report.Reporter [main] Element Wasn't found
+2017-08-30 00:17:45,890 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-30 00:17:46,022 INFO report.Reporter [main] Main Page View
+2017-08-30 00:17:47,267 INFO report.Reporter [main] Message Window View
+2017-08-30 00:17:53,087 INFO report.Reporter [main] Sent Msg View
+2017-08-30 00:18:46,738 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:18:51,720 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:18:51,721 INFO listener.CustomListener [main] Faileds:1
+2017-08-30 00:18:51,721 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-16-37.146.html
+2017-08-30 00:24:03,081 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:24:09,744 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-30 00:24:14,955 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504041854955
+2017-08-30 00:24:15,861 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:24:43,859 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:24:47,256 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:24:47,257 INFO listener.CustomListener [main] Faileds:1
+2017-08-30 00:24:47,257 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-24-15.021.html
+2017-08-30 00:25:58,078 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:25:58,124 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504041958122
+2017-08-30 00:25:59,370 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:25:59,370 INFO listener.CustomListener [main] Faileds:0
+2017-08-30 00:25:59,371 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-25-58.585.html
+2017-08-30 00:26:08,055 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:26:15,549 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-30 00:26:20,548 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504041980547
+2017-08-30 00:26:20,972 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:26:39,207 INFO report.Reporter [main] Element Wasn't found
+2017-08-30 00:26:39,225 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-30 00:26:39,448 INFO report.Reporter [main] Main Page View
+2017-08-30 00:26:40,535 INFO report.Reporter [main] Message Window View
+2017-08-30 00:26:46,938 INFO report.Reporter [main] Sent Msg View
+2017-08-30 00:26:51,720 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:26:55,892 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:26:55,892 INFO listener.CustomListener [main] Faileds:1
+2017-08-30 00:26:55,892 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-26-20.572.html
+2017-08-30 00:28:22,422 INFO listener.CustomListener [main] Start Execute Automation Tests
+2017-08-30 00:28:27,969 INFO driverFactory.DriverFactory [main] Opening CHROME BrowserS
+2017-08-30 00:28:32,137 INFO listener.CustomListener [main] Teststarted running:sendMessageAndCheckedInBoxTest at:1504042112136
+2017-08-30 00:28:32,649 INFO report.Reporter [main] Step 1 : Login to Gmail
+2017-08-30 00:28:53,543 INFO report.Reporter [main] Element Wasn't found
+2017-08-30 00:28:53,554 INFO report.Reporter [main] Step 2 : Send the MSG
+2017-08-30 00:28:53,709 INFO report.Reporter [main] Main Page View
+2017-08-30 00:28:54,871 INFO report.Reporter [main] Message Window View
+2017-08-30 00:29:00,671 INFO report.Reporter [main] Sent Msg View
+2017-08-30 00:29:26,508 INFO report.Reporter [main] Step 3 : LogOut
+2017-08-30 00:29:26,858 INFO report.Reporter [main] User Icon View
+2017-08-30 00:29:30,563 INFO report.Reporter [main] Step 4 : Swith Account
+2017-08-30 00:29:30,564 INFO report.Reporter [main] Login Page View
+2017-08-30 00:29:36,003 INFO report.Reporter [main] Clean Test Data
+2017-08-30 00:29:39,803 INFO listener.CustomListener [main] Passeds: 0
+2017-08-30 00:29:39,804 INFO listener.CustomListener [main] Faileds:1
+2017-08-30 00:29:39,804 INFO listener.CustomListener [main] Find the Extend Report Here F://reports//2017-08-30T00-28-32.223.html
