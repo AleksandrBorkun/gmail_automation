@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Parameters;
 
-import com.epam.gmail.driverFactory.DriverFactory;
+import com.epam.gmail.factory.DriverFactory;
 import com.epam.gmail.listener.CustomListener;
 import com.epam.gmail.page.LoginPage;
 

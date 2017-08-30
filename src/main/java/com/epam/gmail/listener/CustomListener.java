@@ -1,5 +1,7 @@
 package com.epam.gmail.listener;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 
 import org.apache.logging.log4j.LogManager;
@@ -18,7 +20,7 @@ public class CustomListener implements ITestListener{
 	
 @Override
 public void onTestStart(ITestResult result) {
-	log.info("Teststarted running:"  + result.getMethod().getMethodName() + " at:" + result.getStartMillis());
+	log.info("Teststarted running:"  + result.getMethod().getMethodName() + " at:" + LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_TIME));
 	ExtentTestManager.startTest(result.getMethod().getMethodName(), result.getMethod().getDescription());
 }
 
